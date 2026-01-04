@@ -1,4 +1,4 @@
-# 🚀 HNG13 Mobile Stage 1 – Tech Quiz App
+# 🚀 Tech Quiz App
 
 ## Overview
 
@@ -22,13 +22,13 @@ To get this project up and running on your local machine, follow these steps:
 1.  ⬇️ **Clone the Repository**:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Jamal-09/Tech-Quiz-App
     ```
 
 2.  📂 **Navigate to Project Directory**:
 
     ```bash
-    cd stage_1
+    cd Tech-Quiz-App
     ```
 
 3.  📦 **Install Dependencies**:
@@ -44,7 +44,7 @@ This project currently does not require any explicit environment variables to ru
 
 ## Usage
 
-Once the dependencies are installed, you can start the Expo development server:
+Once the dependencies are installed, you can start repositoryopmentopment server:
 
 1.  ▶️ **Start the Expo Development Server**:
 
@@ -58,7 +58,7 @@ Once the dependencies are installed, you can start the Expo development server:
     - Press `i` to run on an iOS simulator/device.
     - Press `w` to run in a web browser.
 
-    The application will launch, presenting the home screen where you can initiate the quiz. Proceed through the questions, select your answers, and view your results upon completion. You can also toggle between light and dark themes using the button in the header.
+    The application will launch, presenting the home screen where you can initiate the quiz. Proceed through the questions, select your answersviewd view your results upon completion. You can also toggle between light and dark themes using the button in the header.
 
 ## Technologies Used
 
@@ -71,18 +71,7 @@ Once the dependencies are installed, you can start the Expo development server:
 | **Styling**     | [NativeWind](https://www.nativewind.dev/)                                    | Utility-first CSS framework (TailwindCSS) for React Native.                |
 | **Navigation**  | [Expo Router](https://expo.dev/router)                                       | File-system based router for Expo and React Native applications.           |
 | **State Mgmt.** | [React Context API](https://react.dev/reference/react/createContext)         | For managing global state, such as theme preferences.                      |
-| **UI Icons**    | [Expo Vector Icons](https://docs.expo.dev/guides/icons/)                     | Provides access to a wide range of popular icon sets.                      |
-
-## Author Info
-
-Developed by a passionate software engineer.
-
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your_username)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/your_username)
-
----
-
-[![Expo](https://img.shields.io/badge/Made%20with-Expo-000.svg?logo=expo)](https://expo.dev/)
+| **UI Icons**    | [Expo Vector Icons](https://docs.expo.dev/guides/icons/)                     | Provides access to a wide range of popular icon sets.                   Jamal-09Expo](https://img.shields.io/badge/Made%20with-Expo-000.svg?logo=expo)](https://expo.dev/)
 [![React Native](https://img.shields.io/badge/React%20Native-02B7DD?logo=react&logoColor=white)](https://reactnative.dev/)
 [![NativeWind](https://img.shields.io/badge/Styled%20with-NativeWind-black?logo=tailwindcss&logoColor=white)](https://www.nativewind.dev/)
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -92,6 +81,5 @@ Developed by a passionate software engineer.
 Connect with me:
 
 - 📧 Email: napg.adekunle@gmail.com
-- 🌈 Slack: Jamal-09
 
 ### Built with 💻 & ❤️ by Jamal
